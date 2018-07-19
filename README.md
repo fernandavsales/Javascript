@@ -1,3 +1,3 @@
 # Javascript
-Exercícios de fixação do conteúdo aprendido.
-Tema: Joguinhos de navegador.
+Projetos de fixação do conteúdo aprendido.
+Tema: Jogos voltados para o navegador.
