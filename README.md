@@ -1,7 +1,7 @@
 # Projetos
 Repositório destinado a projetos de jogos com Javascript.
 
-## Módulos do Bootcamp
+## Jogos
 
 <ol>
 <li>
