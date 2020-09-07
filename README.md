@@ -3,7 +3,7 @@ Repositório destinado a projetos de jogos com Javascript.
 
 ## Jogos
 
-<ol>
+<ul>
 <li>
 <h3><b>Jogos</b></h3>
 <ul> 
@@ -11,4 +11,4 @@ Repositório destinado a projetos de jogos com Javascript.
 <li><a href="https://github.com/fernandavianadss/bootcamp-fullstack-igti/tree/master/crud-desafio">Jogo da Velha</a></li>
 </ul>
 </li>
-</ol>
+</ul>
